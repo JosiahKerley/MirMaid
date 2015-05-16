@@ -1,0 +1,2 @@
+/home/mirrors/centos/7.1 http://mirror.rackspace.com/CentOS/7.1.1503/ reject=iso,img
+/home/mirrors/centos/6.6 http://mirror.rackspace.com/CentOS/6.6/ reject=iso,img
